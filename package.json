@@ -1,0 +1,21 @@
+{
+  "name": "closing-tags-comment",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "turusuke <mail@turusuke.com>",
+  "license": "MIT",
+  "bin": {
+    "tag-comment": "main.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cheerio": "^0.22.0",
+    "mkdirp": "^0.5.1",
+    "yargs": "^7.1.0"
+  },
+  "devDependencies": {}
+}
